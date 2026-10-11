@@ -12,3 +12,5 @@ build/
 install/
 log/
 isaac_env/
+isaac_env/
+__pycache__/
